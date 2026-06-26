@@ -28,3 +28,36 @@ Para executar esta ferramenta, você precisará apenas do **Python 3.x** instala
 Para verificar se possui o Python instalado, execute no terminal:
 ```bash
 python --version
+```
+
+---
+
+## ⚙️ Instruções de Uso
+1. **Preparar o Arquivo Fonte:** Certifique-se de que o arquivo de código fonte que você deseja testar possui a extensão .261 e está localizado no mesmo diretório do script static_checker.py.
+
+Exemplo de arquivo:
+```bash
+Teste.261
+```
+
+
+2. **Execução do Compilador:** Execute o programa principal utilizando o terminal de comandos:
+```bash
+python static_checker.py
+```
+
+
+3. **Fornecer os Parâmetros de Entrada:** O programa iniciará exibindo a interface de linha de comando e solicitará o nome do arquivo texto.
+Conforme a especificação do projeto, **não é necessário digitar a extensão .261.**
+
+Exemplo de Interação no Terminal:
+```bash
+=======================================
+Static Checker - BobEnzo2026-1
+=======================================
+Digite o nome do arquivo fonte (sem a extensao): Teste
+
+Analise concluida com sucesso!
+-> Relatorio Lexico salvo em: Teste.LEX
+-> Tabela de Simbolos salva em: Teste.TAB
+```
