@@ -1,0 +1,74 @@
+Código da Equipe: EQ07
+Componentes:
+Arthur Adriano Mendes Machado; arthur.machado@aln.senaicimatec.edu.br; (71) 98113-0658
+Davi Mattos Blumetti; davi.blumetti@aln.senaicimatec.edu.br; (71) 99945-6673
+Filipe Lorenzo Arraes Melo Alves; filipe.alves@aln.senaicimatec.edu.br; (71) 99323-5659
+Joao Maia Portela Coelho; joao.coelho@aln.senaicimatec.edu.br; (71) 98857-0737
+---------------------------------------------------------
+RELATÓRIO DA TABELA DE SÍMBOLOS.
+Texto fonte analisado: Teste.261
+
+Entrada: 1, Código: C01, Lexeme: TESTELEXICO,
+QtdCharsAntesTrunc: 11, QtdCharDepoisTrunc: 11,
+TipoSimb:  Linhas: (6).
+----------------------------------------
+Entrada: 2, Código: C01, Lexeme: CONTADOR,
+QtdCharsAntesTrunc: 8, QtdCharDepoisTrunc: 8,
+TipoSimb:  Linhas: (8, 23, 26, 27, 28).
+----------------------------------------
+Entrada: 3, Código: C01, Lexeme: ACUMULADOR,
+QtdCharsAntesTrunc: 10, QtdCharDepoisTrunc: 10,
+TipoSimb:  Linhas: (8, 24, 27, 27, 31).
+----------------------------------------
+Entrada: 4, Código: C01, Lexeme: VARIAVEL_GIGANTE_COM_MUITO_MAI,
+QtdCharsAntesTrunc: 61, QtdCharDepoisTrunc: 30,
+TipoSimb:  Linhas: (11).
+----------------------------------------
+Entrada: 5, Código: C01, Lexeme: TEXTO,
+QtdCharsAntesTrunc: 5, QtdCharDepoisTrunc: 5,
+TipoSimb:  Linhas: (13).
+----------------------------------------
+Entrada: 6, Código: C01, Lexeme: ENDDECLARACIONS,
+QtdCharsAntesTrunc: 15, QtdCharDepoisTrunc: 15,
+TipoSimb:  Linhas: (14).
+----------------------------------------
+Entrada: 7, Código: C01, Lexeme: PROCESSARDADOS,
+QtdCharsAntesTrunc: 14, QtdCharDepoisTrunc: 14,
+TipoSimb:  Linhas: (17).
+----------------------------------------
+Entrada: 8, Código: C01, Lexeme: LIMITE,
+QtdCharsAntesTrunc: 6, QtdCharDepoisTrunc: 6,
+TipoSimb:  Linhas: (17, 26).
+----------------------------------------
+Entrada: 9, Código: C06, Lexeme: 0,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb:  Linhas: (23, 24).
+----------------------------------------
+Entrada: 10, Código: C06, Lexeme: 2,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb:  Linhas: (27).
+----------------------------------------
+Entrada: 11, Código: C06, Lexeme: 1,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb:  Linhas: (28).
+----------------------------------------
+Entrada: 12, Código: C06, Lexeme: 100,
+QtdCharsAntesTrunc: 3, QtdCharDepoisTrunc: 3,
+TipoSimb:  Linhas: (31).
+----------------------------------------
+Entrada: 13, Código: C01, Lexeme: VARI,
+QtdCharsAntesTrunc: 4, QtdCharDepoisTrunc: 4,
+TipoSimb:  Linhas: (38).
+----------------------------------------
+Entrada: 14, Código: C01, Lexeme: A,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb:  Linhas: (38).
+----------------------------------------
+Entrada: 15, Código: C01, Lexeme: VEL_SUJA,
+QtdCharsAntesTrunc: 8, QtdCharDepoisTrunc: 8,
+TipoSimb:  Linhas: (38).
+----------------------------------------
+Entrada: 16, Código: C06, Lexeme: 10,
+QtdCharsAntesTrunc: 2, QtdCharDepoisTrunc: 2,
+TipoSimb:  Linhas: (38).
+----------------------------------------

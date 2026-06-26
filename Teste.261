@@ -1,0 +1,43 @@
+// ==========================================
+// Arquivo de teste para o Analisador Lexico
+// Linguagem: BobEnzo2026-1
+// ==========================================
+
+program TesteLexico
+declarations
+    varType integer: contador, acumulador;
+    
+    // Testando a regra de truncagem (mais de 30 caracteres validos)
+    varType real[]: variavel_gigante_com_muito_mais_que_trinta_caracteres_validos;
+    
+    varType string: texto;
+endDeclaracions
+
+functions
+    funcType void: processarDados(paramType integer: limite)
+    {
+        /* Iniciando o processamento
+           Este comentario de bloco deve ser 
+           totalmente descartado pelo Lexico */
+        
+        contador := 0;
+        acumulador := 0;
+
+        while (contador < limite)
+            acumulador := acumulador + (contador * 2);
+            contador := contador + 1;
+        endWhile
+        
+        if (acumulador >= 100)
+            print acumulador;
+        else
+            print contador;
+        endif
+        
+        // Testando o filtro de 1o nivel (caracteres invalidos)
+        vari§a•vel_suja := 10;
+        
+        return;
+    }
+endFunctions
+endProgram
